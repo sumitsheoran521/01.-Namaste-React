@@ -16,4 +16,3 @@ enhance user experience, reduce bandwidth costs, and improve the reliability of 
 images, scripts, or fonts, can be requested from different domains or origins. It helps control how web 
 browsers handle cross-origin requests for resources and ensures security by preventing unauthorized access to 
 sensitive data.
-![Alt text](image.png)
