@@ -15,7 +15,7 @@
 * Port Numbers
 * Consistent Hashing Algorithm
 * Zero Config
-* 
+* Tree Shaking - Removing un-wanted code
 *********************** 
 
 *Transitive Dependencies* => if Component A depends on Component B, and Component B depends on 

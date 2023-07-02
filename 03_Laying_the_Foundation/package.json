@@ -1,0 +1,22 @@
+{
+  "name": "02_igniting_our_app",
+  "version": "1.0.0",
+  "description": "This is a second video of react course",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sumit Sheoran",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions"
+  ]
+}
